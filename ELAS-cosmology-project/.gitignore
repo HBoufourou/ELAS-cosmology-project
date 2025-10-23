@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+*.npy
+*.npz
+*.fits
+*.pdf
+*.png
+*.jpg
+*.jpeg
+.DS_Store
+*/output/figures/*
